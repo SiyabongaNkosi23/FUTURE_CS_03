@@ -28,7 +28,7 @@ This project focuses on analyzing a public REST API to identify common security 
 ----
 ## Project Structure
 ```text
-API-Security-Analysis/
+Analysis/
 │
 ├── README.md
 ├── report/
