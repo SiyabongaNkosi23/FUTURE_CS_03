@@ -25,6 +25,24 @@ This project focuses on analyzing a public REST API to identify common security 
 - Screenshot Tools
 - GitHub
 
+----
+## Project Structure
+```text
+API-Security-Analysis/
+│
+├── README.md
+├── report/
+│   └── Future_CS_03_API_Security_Report.pdf
+│
+├── screenshots/
+│   ├── API_Posts_Data.png
+│   ├── API_Users_Data.png
+│   └── API_SinglePost.png
+
+```
+
+----
+
 ## Key Findings
 - No authentication required
 - Public access to API data
